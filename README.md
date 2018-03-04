@@ -1,2 +1,4 @@
 # hello-world
-getting started with github
+getting started (finally) with github
+
+making and commiting changes
